@@ -14,7 +14,7 @@ Open http://localhost:8000 . All local paths are relative, including for GitHub 
 
 ## Included
 
-- Original homepage design, complete official menu directory, gallery, private events, visit and reservation routes.
+- November 6 agency-pitch homepage with eight sections, six verified menu selections, and distinct venue copy; complete official menu directory, gallery, private events, visit and reservation routes.
 - Every current branch with separate hours, phone, directions and booking links.
 - Official ordering, social, event and legal destinations preserved.
 - Accessible mobile navigation, keyboard photo gallery, native FAQ disclosures and reduced-motion support.
@@ -23,13 +23,13 @@ Open http://localhost:8000 . All local paths are relative, including for GitHub 
 
 ## Content and publication
 
-Facts were checked November 5, 2026. Menu prices, hours, promotions, availability and booking terms can change. Transactions and inquiries are handled by the restaurant’s existing services; this static site does not collect or send visitor data. Google Maps images were used for atmosphere research only and are not bundled.
+Homepage facts were rechecked November 6, 2026. Menu prices, hours, promotions, availability and booking terms can change. Transactions and inquiries are handled by the restaurant’s existing services; this static site does not accept form submissions. The visit map loads from Google only when selected. Google Maps images were used for atmosphere research only and are not bundled.
 
 This public repository is a reviewable design concept, not an official business launch. It uses `noindex,nofollow`. Before a business launch, obtain client approval and image/brand rights, verify all business details and link destinations, replace concept metadata, and set the final canonical URL. Image provenance is not a transfer of copyright.
 
 ## Editing
 
-Edit the HTML pages directly. Shared styles are in `assets/styles.css`, interactions in `assets/app.js`, and sources in `data/venue-facts.json` / `data/image-sources.json`. No credentials, analytics, or database are included.
+Edit the HTML pages directly. Interior-page styles are in `assets/styles.css`, with homepage art direction in `assets/pitch.css`. Navigation and galleries use `assets/app.js`; homepage motion and maps use `assets/pitch.js`. Facts and photograph origins are recorded in `data/venue-facts.json`, `data/revision-facts.json`, and `data/image-sources.json`. No credentials, analytics, or database are included.
 
 ## Previews and checks
 

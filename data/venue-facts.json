@@ -1,0 +1,214 @@
+{
+  "name": "Iron Horse Tavern",
+  "official": "https://www.ironhorsetavern.net/",
+  "retrieved": "2026-11-05",
+  "positioning": "Modern American tavern rooted in Sacramento railway history, serving globally inspired comfort food, craft cocktails and beer.",
+  "branches": [
+    {
+      "name": "R Street",
+      "address": "1800 15th Street, Suite B, Sacramento, CA 95811",
+      "phone": "916-448-4488",
+      "tel": "tel:+19164484488",
+      "hours": {
+        "Monday–Thursday": "11 AM–9 PM",
+        "Friday": "11 AM–10 PM",
+        "Saturday": "9 AM–10 PM",
+        "Sunday": "9 AM–8:30 PM"
+      },
+      "reserve": "https://tables.toasttab.com/restaurants/6755928a-edc8-41a3-a4ce-fac139cf1775/findTime",
+      "waitlist": "https://tables.toasttab.com/restaurants/6755928a-edc8-41a3-a4ce-fac139cf1775/joinWaitlist",
+      "order": "https://order.toasttab.com/online/iron-horse-tavern-r-st-1800-15th-street",
+      "maps": "https://www.google.com/maps/place/Iron+Horse+Tavern+-+R+St.+Sacramento/@38.5695579,-121.4906877,15z/data=!4m2!3m1!1s0x0:0x72c02b126ce789c5",
+      "events": "https://www.ironhorsetavern.net/private-events-r-street",
+      "brunch": "Saturday–Sunday 9 AM–3 PM"
+    },
+    {
+      "name": "Folsom",
+      "address": "460 Palladio Parkway, Folsom, CA 95630",
+      "phone": "916-618-4322",
+      "tel": "tel:+19166184322",
+      "hours": {
+        "Monday": "11 AM–8:30 PM",
+        "Tuesday–Thursday": "11 AM–9 PM",
+        "Friday": "11 AM–9:30 PM",
+        "Saturday": "10 AM–9:30 PM",
+        "Sunday": "10 AM–8:30 PM"
+      },
+      "reserve": "https://tables.toasttab.com/restaurants/a1507e03-95db-4cff-8e32-2c92b9cc6b1a/findTime",
+      "waitlist": "https://tables.toasttab.com/restaurants/a1507e03-95db-4cff-8e32-2c92b9cc6b1a/joinWaitlist",
+      "order": "https://order.toasttab.com/online/iron-horse-tavern-palladio-pkwy-460-palladio-pkwy",
+      "maps": "https://www.google.com/maps/place/Iron+Horse+Tavern+Folsom/@38.6520487,-121.1205792,15z/data=!4m2!3m1!1s0x0:0x85b45a94b9205ecd",
+      "events": "https://www.ironhorsetavern.net/private-events-folsom",
+      "brunch": "Saturday–Sunday 10 AM–3 PM"
+    }
+  ],
+  "menus": [
+    {
+      "label": "Lunch & dinner",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-All-Day-Menu-8.11.26-v7.pdf"
+    },
+    {
+      "label": "R Street drinks",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Drink-Menu-R-St-8.13.26-v11.pdf"
+    },
+    {
+      "label": "Folsom drinks",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Drink-Menu-Folsom-8.13.26-v10.pdf"
+    },
+    {
+      "label": "Brunch",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Brunch-Menu-8.13.26-v9.pdf"
+    },
+    {
+      "label": "Kids",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Kids-Menu-7.15.26.pdf"
+    },
+    {
+      "label": "Desserts",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Dessert-Menu-7.15.26-v2.pdf"
+    },
+    {
+      "label": "Gluten free",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-GF-Menu-8.11.26-v2.pdf"
+    }
+  ],
+  "routes": [
+    {
+      "label": "Home",
+      "url": "https://www.ironhorsetavern.net/"
+    },
+    {
+      "label": "Menus",
+      "url": "https://www.ironhorsetavern.net/menu/"
+    },
+    {
+      "label": "Reservations",
+      "url": "https://www.ironhorsetavern.net/reservations/"
+    },
+    {
+      "label": "Order online",
+      "url": "https://www.ironhorsetavern.net/order-online/"
+    },
+    {
+      "label": "Private events",
+      "url": "https://www.ironhorsetavern.net/private-events/"
+    }
+  ],
+  "signatureFood": [
+    "Tuna Poke Nachos",
+    "Giant Bavarian Pretzel",
+    "Tavern Burger",
+    "Cubano",
+    "Korean Fried Chicken",
+    "Loco Moco",
+    "Tavern pizzas",
+    "Mac n Cheese Bar",
+    "Stuffed French Toast",
+    "Banana Cream Pie"
+  ],
+  "contact": {
+    "email": "info@ironhorsetavern.net",
+    "eventsEmail": "events@machospitalitygroup.com"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/ironhorsetavern/?hl=en",
+    "facebook": "https://www.facebook.com/profile.php?id=1221532997862401&_rdr"
+  },
+  "rewards": "https://www.toasttab.com/mac-hospitality-gift-card-1116-15th-street/rewardsSignup",
+  "giftcards": "https://machospitality.myguestaccount.com/",
+  "promotions": [
+    {
+      "title": "Happy hour",
+      "schedule": "Monday–Friday, 3–6 PM",
+      "details": "Half off appetizers and pizzas; $1 off big beer, $2 off wine and wells, $3 off cocktails."
+    }
+  ],
+  "uncertainties": [
+    "Homepage Resy buttons contain stale 2024 date parameters; current reservations page now uses Toast. Use current Toast routes in this report.",
+    "Original Folsom tel link drops the area code; correct full number is 916-618-4322.",
+    "Footer visible event address is events@machospitalitygroup.com but original mailto incorrectly points to info@ironhorsetavern.net. Use the visible events address.",
+    "October 16–November 26 seasonal specials may be omitted from an evergreen design.",
+    "Branch identity of iht1.jpg bar image not proven; avoid explicitly labeling a branch. ihtf.jpg is a covered patio, not a full exterior.",
+    "Official photos are downloadable reference source material; no ownership transfer or broader reuse license implied."
+  ],
+  "mapsResearch": {
+    "method": "Visited both Google Maps place listings and opened their photo galleries. Maps photos used for atmosphere reference only, not republished.",
+    "observations": [
+      {
+        "branch": "R Street",
+        "observed": "Interior photo: red brick piers, black tufted leather banquettes, dark bentwood chairs, embossed dark ceiling, cone pendant lamps, broad timber communal tables, and red upper-wall lighting."
+      },
+      {
+        "branch": "Folsom",
+        "observed": "Exterior photo: two-story rust-red stucco facade with tall dark-framed windows, an arched upper window, white rectangular wordmark sign, deep black covered patio structure, and string lights. Food thumbnails show sociable brunch/cocktails."
+      }
+    ]
+  },
+  "designDirection": "Warm industrial tavern editorial: railway heritage without kitsch, rust/brick and dark ink with a controlled brass accent. Strong wordmark, generously scaled interiors and comfort-food photography, robust serif/display headline system paired with simple utility labels.",
+  "assets": [
+    {
+      "file": "logo.png",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2024/09/IHT-logo.png",
+      "alt": "Official logo",
+      "bytes": 46194,
+      "path": "assets-original/logo.png"
+    },
+    {
+      "file": "ihtr1.jpg",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2024/10/ihtr1.jpg",
+      "alt": "R Street interior",
+      "bytes": 416047,
+      "path": "assets-original/ihtr1.jpg"
+    },
+    {
+      "file": "iht1.jpg",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2024/10/iht1.jpg",
+      "alt": "Iron Horse bar interior with round leather stools, brass lamps and hex-tile flooring",
+      "bytes": 576629,
+      "path": "assets-original/iht1.jpg"
+    },
+    {
+      "file": "ihtf.jpg",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2024/10/ihtf.jpg",
+      "alt": "Iron Horse covered patio at dusk with timber tables, heaters, fans and a glass firepit",
+      "bytes": 352339,
+      "path": "assets-original/ihtf.jpg"
+    },
+    {
+      "file": "poke-nachos.jpg",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/DSC00748-Enhanced-NR-scaled.jpg",
+      "alt": "Tuna poke nachos",
+      "bytes": 211354,
+      "path": "assets-original/poke-nachos.jpg"
+    },
+    {
+      "file": "french-toast.jpg",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/DSC00938-Enhanced-NR-1-scaled.jpg",
+      "alt": "Stuffed French toast",
+      "bytes": 129095,
+      "path": "assets-original/french-toast.jpg"
+    },
+    {
+      "file": "cubano.jpg",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/DSC00534-Enhanced-NR-1-scaled.jpg",
+      "alt": "Cubano sandwich",
+      "bytes": 100544,
+      "path": "assets-original/cubano.jpg"
+    },
+    {
+      "file": "cocktail.jpg",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/DSC01078-Enhanced-NR-scaled.jpg",
+      "alt": "Cocktail",
+      "bytes": 86073,
+      "path": "assets-original/cocktail.jpg"
+    },
+    {
+      "file": "pretzel.jpg",
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/AY3A0704-1.jpg",
+      "alt": "Giant Bavarian Pretzel",
+      "bytes": 184934,
+      "path": "assets-original/pretzel.jpg"
+    }
+  ],
+  "assetReview": "All 9 assets visually inspected in contact sheet; all 3 architecture/interior photos individually inspected. ihtr1.jpg and iht1.jpg are strongest wide hero options; food images are warm shallow-depth tabletop photographs."
+}

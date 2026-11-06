@@ -1,0 +1,43 @@
+{
+  "mobileMenus": [
+    {
+      "slug": "cafeteria-15l",
+      "opened": true,
+      "escapeClosed": true
+    },
+    {
+      "slug": "mix-downtown",
+      "opened": true,
+      "escapeClosed": true
+    },
+    {
+      "slug": "mas-taco-bar",
+      "opened": true,
+      "escapeClosed": true
+    },
+    {
+      "slug": "iron-horse-tavern",
+      "opened": true,
+      "escapeClosed": true
+    },
+    {
+      "slug": "casa-lola",
+      "opened": true,
+      "escapeClosed": true
+    }
+  ],
+  "gallery": {
+    "venue": "casa-lola",
+    "nextCaption": "The Casa Lola bar",
+    "escapeClosed": true,
+    "focusReturned": true
+  },
+  "map": {
+    "venue": "casa-lola",
+    "iframeTitle": "Map for Casa Lola Downtown Sacramento"
+  },
+  "marquee": {
+    "venue": "mix-downtown",
+    "paused": true
+  }
+}

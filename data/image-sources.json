@@ -1,0 +1,119 @@
+[
+  {
+    "original": "assets/originals/cubano.jpg",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/DSC00534-Enhanced-NR-1-scaled.jpg",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      2560,
+      1710
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/cubano-600.webp",
+      "assets/cubano-1100.webp",
+      "assets/cubano-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/french-toast.jpg",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/DSC00938-Enhanced-NR-1-scaled.jpg",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      2560,
+      1710
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/french-toast-600.webp",
+      "assets/french-toast-1100.webp",
+      "assets/french-toast-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/iht1.jpg",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2024/10/iht1.jpg",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      2160,
+      1440
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/iht1-600.webp",
+      "assets/iht1-1100.webp",
+      "assets/iht1-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/ihtf.jpg",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2024/10/ihtf.jpg",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      2160,
+      1440
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/ihtf-600.webp",
+      "assets/ihtf-1100.webp",
+      "assets/ihtf-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/ihtr1.jpg",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2024/10/ihtr1.jpg",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      2160,
+      1440
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/ihtr1-600.webp",
+      "assets/ihtr1-1100.webp",
+      "assets/ihtr1-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/logo.png",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2024/09/IHT-logo.png",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      1700,
+      882
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/logo.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/poke-nachos.jpg",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/DSC00748-Enhanced-NR-scaled.jpg",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      2560,
+      1710
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/poke-nachos-600.webp",
+      "assets/poke-nachos-1100.webp",
+      "assets/poke-nachos-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/pretzel.jpg",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/AY3A0704-1.jpg",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      1024,
+      1536
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/pretzel-600.webp",
+      "assets/pretzel-1024.webp"
+    ]
+  }
+]

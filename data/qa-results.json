@@ -1,0 +1,132 @@
+{
+  "site": "iron-horse-tavern",
+  "html_pages": 11,
+  "static_errors": [],
+  "responsive": [
+    {
+      "slug": "iron-horse-tavern",
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "slug": "iron-horse-tavern",
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "slug": "iron-horse-tavern",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "slug": "iron-horse-tavern",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "slug": "iron-horse-tavern",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "interactions": {
+    "slug": "iron-horse-tavern",
+    "menuOpened": true,
+    "menuClosed": true,
+    "initial": "1 of 6",
+    "next": "2 of 6",
+    "gallery": {
+      "closed": true,
+      "restored": true
+    },
+    "faqOpened": true
+  },
+  "targeted_route_rechecks": [],
+  "external_http_checks": [
+    {
+      "url": "https://www.ironhorsetavern.net/ada-accessibility/",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/ada-accessibility/"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/privacy-policy/",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/privacy-policy/"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/private-events-folsom",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/private-events-folsom/"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/private-events-r-street",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/private-events-r-street/"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/private-events/",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/private-events/"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/terms-of-use/",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/terms-of-use/"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-All-Day-Menu-8.11.26-v7.pdf",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-All-Day-Menu-8.11.26-v7.pdf"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Brunch-Menu-8.13.26-v9.pdf",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Brunch-Menu-8.13.26-v9.pdf"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Dessert-Menu-7.15.26-v2.pdf",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Dessert-Menu-7.15.26-v2.pdf"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Drink-Menu-Folsom-8.13.26-v10.pdf",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Drink-Menu-Folsom-8.13.26-v10.pdf"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Drink-Menu-R-St-8.13.26-v11.pdf",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Drink-Menu-R-St-8.13.26-v11.pdf"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-GF-Menu-8.11.26-v2.pdf",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-GF-Menu-8.11.26-v2.pdf"
+    },
+    {
+      "url": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Kids-Menu-7.15.26.pdf",
+      "status": 200,
+      "final": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Kids-Menu-7.15.26.pdf"
+    },
+    {
+      "url": "https://www.machospitalitygroup.com/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/"
+    },
+    {
+      "url": "https://www.machospitalitygroup.com/planning-faq/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/planning-faq/"
+    }
+  ]
+}

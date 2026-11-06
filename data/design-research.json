@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-05",
+  "prior_user_work": [
+    "Elite Dance Floors approved 2026-10-29",
+    "Caf\u00e9 X",
+    "Aioli Bodega Espa\u00f1ola v3",
+    "Brasserie du Monde room-based redesign"
+  ],
+  "award_references": [
+    {
+      "name": "Tripletta Pizza",
+      "award": "Awwwards Site of the Day, 2025-04-04",
+      "url": "https://www.awwwards.com/sites/tripletta-pizza",
+      "visual": "Current live website inspected: confident typographic scale and location-first brand personality."
+    },
+    {
+      "name": "Cantina del Sol",
+      "award": "CSS Design Awards Website of the Day, 2024-08-22",
+      "url": "https://www.cssdesignawards.com/sites/cantina-del-sol/46113/",
+      "visual": "Current live website inspected: committed type/food composition, direct menu and reservation paths. No peppers, lime cutouts or signature styling reused."
+    },
+    {
+      "name": "Luckyfolks",
+      "award": "CSS Design Awards Website of the Day, 2021-01-08",
+      "url": "https://www.cssdesignawards.com/sites/luckyfolks/38327/",
+      "visual": "Award archive and current live website inspected; current site has evolved. Room atmosphere and expressive hospitality typography inform principles only."
+    }
+  ],
+  "direction": "A modern tavern broadside. Pine-black, cream and copper drawn from the timber, metal and leather interior. Narrow Barlow Condensed lettering, strong columns, generous food and room photography.",
+  "build": "Code-led using real official photographs. Impeccable engine unavailable; source guidelines applied directly."
+}

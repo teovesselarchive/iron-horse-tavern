@@ -1,0 +1,35 @@
+{
+  "scope": "Verdict pass only on the five material fixes from work/pitch-v2/review.json. This ship verdict covers the scored fixes, not the whole surface.",
+  "evidence": "Re-read all 15 fresh authoritative desktop, mobile and full-page captures; all valid. Inspected current direction records, homepage source, pitch.css and pitch.js only for the requested fixes.",
+  "verdict": [
+    {
+      "id": "F1",
+      "status": "resolved",
+      "evidence": "All five direction records now contain THESIS, OWN-WORLD, STORY, FIRST VIEWPORT and FORM. Evidence/limits explicitly marks concept-seed and detector gates unpassed and makes no automated certification claim. This resolves the documentation finding; it does not pass the unavailable engine gates."
+    },
+    {
+      "id": "F2",
+      "status": "resolved",
+      "evidence": "The four hero overlines are absent in desktop and mobile recaptures. Headline scale and actions remain intact. Cafeteria’s separately ruled edition strip is retained."
+    },
+    {
+      "id": "F3",
+      "status": "resolved",
+      "evidence": "Full-page recaptures show the revised story leads: Cafeteria 7 words, MIX 7, Más 7, Casa 6. Specific menu/room references remain."
+    },
+    {
+      "id": "F4",
+      "status": "resolved",
+      "evidence": "Current HTML, CSS and JavaScript contain no data-reveal attributes, IntersectionObserver or repeated 18px rise rule. Photo parallax and MIX’s pausable tape remain with reduced-motion support. All recaptured content is visible."
+    },
+    {
+      "id": "F5",
+      "status": "resolved",
+      "evidence": "MIX bottle-title rule now uses -.04em tracking. The full-page recapture preserves oversized readable bottle names without clipped text."
+    }
+  ],
+  "regressions": [],
+  "remaining": "clear",
+  "disposition": "ship",
+  "certification_limit": "The unavailable Impeccable concept-seed and detector gates remain explicitly unpassed. No detector was run during this review."
+}

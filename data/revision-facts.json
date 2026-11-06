@@ -1,0 +1,163 @@
+{
+  "name": "Iron Horse Tavern",
+  "verifiedAt": "2026-11-06",
+  "scope": "Content research only. Preserve the current R Street and Folsom branches.",
+  "signatureItems": [
+    {
+      "name": "Tuna Poke Nachos",
+      "detail": "Wonton chips carry tuna, avocado, sweet onion and nori, with spicy soy, wasabi cream and sriracha mayonnaise.",
+      "source": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Brunch-Menu-8.13.26-v9.pdf",
+      "priceOmitted": true,
+      "photo": "poke-nachos.jpg"
+    },
+    {
+      "name": "Giant Bavarian Pretzel",
+      "detail": "A large pretzel with sriracha cream cheese and honey mustard.",
+      "source": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Brunch-Menu-8.13.26-v9.pdf",
+      "priceOmitted": true,
+      "photo": "pretzel.jpg"
+    },
+    {
+      "name": "Cubano",
+      "detail": "Black Forest ham and thick-cut bacon on a hoagie with Gruyère, pickles, pepperoncini and whole-grain mustard.",
+      "source": "https://order.toasttab.com/online/iron-horse-tavern-r-st-1800-15th-street",
+      "priceOmitted": true,
+      "photo": "cubano.jpg"
+    },
+    {
+      "name": "Honey Truffle Pizza",
+      "detail": "Pepperoni and salami with mozzarella, tomato, pickled Fresno chiles and truffle honey.",
+      "source": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Brunch-Menu-8.13.26-v9.pdf",
+      "priceOmitted": true
+    },
+    {
+      "name": "Stuffed French Toast",
+      "detail": "Cream-cheese French toast with berries, whipped cream and caramel.",
+      "source": "https://www.ironhorsetavern.net/wp-content/uploads/2026/08/Iron-Horse-Brunch-Menu-8.13.26-v9.pdf",
+      "priceOmitted": true,
+      "photo": "french-toast.jpg"
+    },
+    {
+      "name": "Korean Fried Chicken",
+      "detail": "Chicken with kimchi, spicy pickled vegetables, jalapeños, rice and sunny-side-up eggs.",
+      "source": "https://order.toasttab.com/online/iron-horse-tavern-r-st-1800-15th-street",
+      "priceOmitted": true
+    }
+  ],
+  "happyHour": {
+    "days": "Monday to Friday",
+    "time": "3 to 6 PM",
+    "details": "Appetizers and pizzas half price. Big beers $1 off; wine by the glass and well cocktails $2 off; specialty cocktails $3 off.",
+    "source": "https://www.ironhorsetavern.net/"
+  },
+  "weeklyEvents": [
+    {
+      "name": "Weekend brunch",
+      "when": "Saturday and Sunday, 9 AM to 3 PM",
+      "branch": "R Street",
+      "source": "https://www.ironhorsetavern.net/"
+    },
+    {
+      "name": "Weekend brunch",
+      "when": "Saturday and Sunday, 10 AM to 3 PM",
+      "branch": "Folsom",
+      "source": "https://www.ironhorsetavern.net/"
+    }
+  ],
+  "parking": [
+    {
+      "branch": "R Street",
+      "verifiedGuidance": "The R Street Partnership lists parking at 1501 R Street, 1410 R Street and 1715 R Street. Use its parking map for nearby options.",
+      "source": "https://www.rstreetcorridor.com/parking-transportation",
+      "safeCopy": "Nearby parking: see the R Street parking map.",
+      "unknowns": [
+        "Restaurant validation, free parking and guaranteed space availability are not verified.",
+        "Parking rates, entrance instructions and operating hours should stay on the operator pages."
+      ]
+    },
+    {
+      "branch": "Folsom",
+      "verifiedGuidance": "Palladio publishes its parking garage at 340 Palladio Parkway. Iron Horse is at 460 Palladio Parkway.",
+      "sources": [
+        "https://gopalladio.com/venue/palladio-parking-garage/",
+        "https://www.machospitalitygroup.com/iron-horse-tavern-folsom/"
+      ],
+      "safeCopy": "Palladio parking garage: 340 Palladio Parkway.",
+      "unknowns": [
+        "The source is a venue listing for the garage, not a complete parking policy.",
+        "Do not promise free parking, validation, exact walking time, availability or unrestricted access."
+      ]
+    }
+  ],
+  "localStory": [
+    {
+      "text": "The R Street restaurant is the original Iron Horse Tavern and MAC calls it its flagship.",
+      "source": "https://www.machospitalitygroup.com/iron-horse-tavern-r-street/"
+    },
+    {
+      "text": "Its R Street setting occupies the revived former railway corridor; the interior references the locomotives that traveled there.",
+      "source": "https://www.ironhorsetavern.net/"
+    },
+    {
+      "text": "The R Street venue has an indoor fireplace and patio.",
+      "source": "https://www.machospitalitygroup.com/iron-horse-tavern-r-street/"
+    },
+    {
+      "text": "The Folsom location sits in Palladio and has an outdoor patio.",
+      "source": "https://www.machospitalitygroup.com/iron-horse-tavern-folsom/"
+    },
+    {
+      "text": "MAC Hospitality Group is family-owned and reports more than 30 years serving Sacramento and Folsom.",
+      "source": "https://www.machospitalitygroup.com/"
+    }
+  ],
+  "giftCards": {
+    "canonical": "https://www.ironhorsetavern.net/gift-cards/",
+    "purchase": [
+      {
+        "branch": "R Street",
+        "url": "https://order.toasttab.com/egiftcards/iron-horse-tavern-r-st-1800-15th-street"
+      },
+      {
+        "branch": "Folsom",
+        "url": "https://order.toasttab.com/egiftcards/iron-horse-tavern-palladio-pkwy-460-palladio-pkwy"
+      }
+    ],
+    "terms": "Redeemable at Iron Horse locations and participating MAC Hospitality Group venues.",
+    "source": "https://www.ironhorsetavern.net/gift-cards/",
+    "verificationNote": "Purchase URLs extracted from official links; checkout completion was not tested.",
+    "holidayLink": "https://machospitality.myguestaccount.com/en-us/guest/egift"
+  },
+  "macRewards": {
+    "label": "MAC Rewards",
+    "url": "https://www.toasttab.com/mac-hospitality-gift-card-1116-15th-street/rewardsSignup",
+    "source": "https://www.ironhorsetavern.net/",
+    "sourceDetail": "Official homepage navigation in saved home.html.",
+    "termsUnknown": true
+  },
+  "photoSuggestions": [
+    {
+      "file": "work/research/iron-horse-tavern/assets-original/ihtr1.jpg",
+      "reason": "Strong wide R Street dining-room image: tufted leather, red accents, timber tables and dark embossed ceiling. Makes railway story tangible.",
+      "usageStatus": "Used on inner pages, absent from current homepage."
+    },
+    {
+      "file": "work/research/iron-horse-tavern/assets-original/pretzel.jpg",
+      "reason": "Vertical hand-held pretzel photograph. Gives the menu section human scale and a clear recognizable dish.",
+      "usageStatus": "Used on inner pages, absent from current homepage."
+    },
+    {
+      "file": "work/research/iron-horse-tavern/assets-original/cocktail.jpg",
+      "reason": "Close-up orange cocktail with a red flower. Useful warm color punctuation; exact drink name is unverified.",
+      "usageStatus": "Downloaded original available; confirm current filename references before treating as unused."
+    }
+  ],
+  "unknowns": [
+    "No exact opening date verified from primary sources, so avoid a founding-year badge.",
+    "No current recurring trivia or live-music night found on the official homepage; do not invent a weekly event.",
+    "Fall specials expire November 26; holiday gift-card promotion expires December 31. Keep evergreen homepage copy unless expiry handling exists.",
+    "Current all-day PDF was inaccessible through the web reader, so dish details were verified in the live official Toast ordering menu and current official brunch PDF.",
+    "The existing source uses inconsistent prices for Korean Fried Chicken across menu types. No prices proposed here.",
+    "Signature picks are editorial selections of real menu dishes, not a verified bestseller ranking."
+  ]
+}

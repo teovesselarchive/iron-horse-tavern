@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-05",
+  "disposition": "ship",
+  "scope": "Independent homepage visual review plus source samples; final verdict covers the three scored corrections only. Not a visual certification of every interior route.",
+  "corrections": [
+    {
+      "finding": "Restore Casa Lola careers destination",
+      "result": "resolved"
+    },
+    {
+      "finding": "Label six weekend brunch schedules while preserving times",
+      "result": "resolved"
+    },
+    {
+      "finding": "Correct Iron Horse branch photo attribution and M\u00e1s food-photo alternative text",
+      "result": "resolved"
+    }
+  ],
+  "evidence": "Desktop/mobile homepages, desktop full pages, and eight corrected desktop/mobile visit-page captures.",
+  "limitations": "Impeccable engine unavailable; no generated FORM seed, QUALITY BAR cards or detector pass claimed."
+}

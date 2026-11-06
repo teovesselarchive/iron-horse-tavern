@@ -1,0 +1,148 @@
+{
+  "disposition": "fix",
+  "scope": "Fresh finish review of the five current redesigned homepages only; screenshots and source, no browser or detector run.",
+  "missing_inputs": "QUALITY BAR cards, concept seed and decision comp are unavailable in the declared code-led fallback. No approved comp exists. Provenance files were sampled; inner pages and unsupplied states were not reviewed.",
+  "persistence": {
+    "status": "partial",
+    "details": [
+      "All five PRODUCT.md files and pitch-direction.md files exist.",
+      "All 15 authoritative desktop, mobile and full-page captures exist, have the stated dimensions, show the document top where applicable, and contain valid rendered content.",
+      "The code-led path has no comp reproduction state or diff obligation.",
+      "The engine-unavailable disclosure is present, but the required generated FORM seed cannot be corroborated. This is an unpassed process gate, not evidence of a visual defect or a license to fabricate a seed."
+    ],
+    "capture_dimensions": {
+      "desktop": "1440x1000",
+      "mobile": "390x844",
+      "full_width": 1440,
+      "full_heights": {
+        "cafeteria-15l": 6750,
+        "mix-downtown": 7031,
+        "mas-taco-bar": 7158,
+        "iron-horse-tavern": 7240,
+        "casa-lola": 8180
+      }
+    }
+  },
+  "fidelity": {
+    "matrix": [
+      {
+        "venue": "Cafeteria 15L",
+        "TYPE": "match: monumental editorial serif and original typewriter logo",
+        "MATERIAL": "match: actual marquee room, food and patio photographs",
+        "GROUND": "match: ivory and brick direction",
+        "FIRST_VIEWPORT": "match: marquee room carries the serif opening and three actions"
+      },
+      {
+        "venue": "MIX Downtown",
+        "TYPE": "match: oversized Space Grotesk nightlife poster",
+        "MATERIAL": "match: actual crowd, roof and bottle-service photography",
+        "GROUND": "match: near-black field and ember accent",
+        "FIRST_VIEWPORT": "match: crowd stage plus rooftop inset; mobile hides inset to protect action visibility, an acceptable responsive adaptation"
+      },
+      {
+        "venue": "Más Taco Bar",
+        "TYPE": "match: stacked Archivo Black broadside",
+        "MATERIAL": "match: real food spread and occupied room imagery",
+        "GROUND": "match: apricot and agave direction",
+        "FIRST_VIEWPORT": "match: strong food/type split, stacked mobile composition"
+      },
+      {
+        "venue": "Iron Horse Tavern",
+        "TYPE": "match: condensed railway newspaper voice",
+        "MATERIAL": "match: real bar panorama, food and room photographs",
+        "GROUND": "match: cream, ink and copper direction",
+        "FIRST_VIEWPORT": "match: display headline with side actions and broad photographic centerfold"
+      },
+      {
+        "venue": "Casa Lola",
+        "TYPE": "match: sweeping editorial serif and original logo",
+        "MATERIAL": "match: real room and six dishes; exterior honestly captioned",
+        "GROUND": "match: cream, olive and magenta direction",
+        "FIRST_VIEWPORT": "match: open serif masthead and room panorama; stacked mobile composition"
+      }
+    ],
+    "shared_contract": [
+      {
+        "promise": "Eight requested sections and booking paths",
+        "status": "match",
+        "evidence": "All five full-page captures show hero, story, six menu/bottle picks, room gallery, private events, weekly programming, visit information and footer links."
+      },
+      {
+        "promise": "Headlines under eight words",
+        "status": "contradicted",
+        "evidence": "Oversized story-lead paragraphs in Cafeteria, MIX, Más and Casa function as headlines but contain 9, 9, 10 and 9 words respectively."
+      },
+      {
+        "promise": "Real commercial facts and material",
+        "status": "match",
+        "evidence": "Visible dishes, schedules, capacities and images align with the sampled revision/venue facts. No invented review or award claim is visible. Casa exterior substitution is supported by the documented photo limitation."
+      },
+      {
+        "promise": "FORM provenance",
+        "status": "missing",
+        "evidence": "No generated seed exists; the documents explicitly state engine unavailability."
+      }
+    ],
+    "interaction_limit": "No independent live interaction test in this review. Source includes keyboard menu/gallery handling, reduced-motion rules and click-to-load map behavior. Parent separately reports fresh interaction and overflow checks."
+  },
+  "ceiling": {
+    "status": "not fully certifiable",
+    "details": "No QUALITY BAR cards were provided. The visual world does not require a rebuild. The repeated section-rise animation leaves the motion treatment generic despite distinct hero and menu compositions; remove that repeated device before adding ornament or more effects."
+  },
+  "material_fixes": [
+    {
+      "id": "F1",
+      "check": "Contract / FORM provenance",
+      "venues": [
+        "all"
+      ],
+      "action": "Normalize each direction record into THESIS, OWN-WORLD, STORY, FIRST VIEWPORT and FORM, preserving the declared code-led fallback and explicitly marking the unavailable seed/concept/detector gates unpassed. Do not claim full engine certification or invent a seed; a full engine pass remains unavailable until corroborating engine output exists."
+    },
+    {
+      "id": "F2",
+      "check": "Floor / no eyebrow",
+      "venues": [
+        "mix-downtown",
+        "mas-taco-bar",
+        "iron-horse-tavern",
+        "casa-lola"
+      ],
+      "action": "Remove the uppercase .eyebrow lines above the hero headlines. Keep the useful address/hours information in the visit section or a true utility row, separated from the headline hierarchy; do not merely rename the class. Cafeteria’s separately ruled edition strip can remain."
+    },
+    {
+      "id": "F3",
+      "check": "Contract / short headlines",
+      "venues": [
+        "cafeteria-15l",
+        "mix-downtown",
+        "mas-taco-bar",
+        "casa-lola"
+      ],
+      "action": "Rewrite the oversized .story-lead text to seven words or fewer per venue. These are visual headlines even though marked up as paragraphs; preserve the concrete menu/room/local references."
+    },
+    {
+      "id": "F4",
+      "check": "Floor / authored restrained motion",
+      "venues": [
+        "all"
+      ],
+      "action": "Remove the blanket translateY reveal from the 7–12 data-reveal elements per homepage. Keep one deliberate photographic motion moment per page where useful, and retain MIX’s pausable strip with reduced-motion support; do not replace the repeated rise with another repeated entrance."
+    },
+    {
+      "id": "F5",
+      "check": "Floor / tracking",
+      "venues": [
+        "mix-downtown"
+      ],
+      "action": "Change .bottle-spread .menu-entry h3 from letter-spacing:-.045em to -.04em or looser. Keep the oversized scale and verify the longest bottle names still wrap cleanly."
+    }
+  ],
+  "keep": "Keep the large type, venue-specific palettes, actual photographs, asymmetric food/room compositions, clear three-action heroes, verified copy and honest Casa street-photo label. Do not shrink the design into a generic restaurant template.",
+  "per_venue_disposition": {
+    "cafeteria-15l": "fix",
+    "mix-downtown": "fix",
+    "mas-taco-bar": "fix",
+    "iron-horse-tavern": "fix",
+    "casa-lola": "fix"
+  }
+}
