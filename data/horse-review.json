@@ -1,0 +1,31 @@
+{
+  "disposition": "fix",
+  "scope": "Independent full review of replacement identity and 13 valid captures",
+  "persistence": "Prior DESIGN.md and PRODUCT.md required replacement.",
+  "fidelity": {
+    "type": "match",
+    "material": "match",
+    "ground": "match",
+    "firstViewport": "match",
+    "storyMenu": "match; five items satisfies 4\u20136",
+    "responsive": "adaptation; one missing space",
+    "interaction": "duplicate includes caused redeclaration",
+    "floor": "remove mobile eyebrow",
+    "formProcess": "unverified; unavailable seed/detector disclosed"
+  },
+  "ceiling": "Selected venue-sign direction reached; no rebuild warranted.",
+  "materialFixes": [
+    "Remove duplicate horse.js and horse.css inclusions in source and generator.",
+    "Replace stale DESIGN.md, PRODUCT.md and design sidecar.",
+    "Remove Also making an appearance eyebrow.",
+    "Preserve location-line separator at768px."
+  ],
+  "keep": [
+    "R Street photo",
+    "brick and cream palette",
+    "slab typography",
+    "local headline",
+    "actual dishes",
+    "branch-specific service links"
+  ]
+}

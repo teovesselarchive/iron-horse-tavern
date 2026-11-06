@@ -1,0 +1,13 @@
+{
+  "disposition": "ship",
+  "scope": "Verdict pass on the four original material findings only, not a new whole-surface audit.",
+  "fixes": {
+    "duplicateIncludes": "resolved",
+    "replacementDocumentation": "resolved",
+    "pizzaEyebrow": "resolved",
+    "tabletLocationSeparator": "resolved"
+  },
+  "captures": "All 13 required recaptures valid.",
+  "remaining": [],
+  "regressions": "None identified from the fix batch."
+}

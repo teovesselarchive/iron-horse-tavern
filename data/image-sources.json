@@ -115,5 +115,20 @@
       "assets/pretzel-600.webp",
       "assets/pretzel-1024.webp"
     ]
+  },
+  {
+    "original": "assets/originals/cocktail.jpg",
+    "source_url": "https://www.ironhorsetavern.net/wp-content/uploads/2025/01/DSC01078-Enhanced-NR-scaled.jpg",
+    "source_page": "https://www.ironhorsetavern.net/",
+    "original_dimensions": [
+      2560,
+      1710
+    ],
+    "provenance": "Official venue photography; original preserved. Resized WebP derivatives only. Drink name not identified.",
+    "derivatives": [
+      "assets/cocktail-600.webp",
+      "assets/cocktail-1100.webp",
+      "assets/cocktail-1800.webp"
+    ]
   }
 ]

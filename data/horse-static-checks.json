@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "index.html",
+    "404.html",
+    "terms-of-use/index.html",
+    "reservations/index.html",
+    "privacy-policy/index.html",
+    "gallery/index.html",
+    "private-events/index.html",
+    "visit/index.html",
+    "order-online/index.html",
+    "menu/index.html",
+    "ada-accessibility/index.html"
+  ],
+  "localLinksAndAssets": "pass",
+  "copyAudit": "pass",
+  "issues": []
+}

@@ -14,10 +14,12 @@ Open http://localhost:8000 . All local paths are relative, including for GitHub 
 
 ## Included
 
-- November 6 agency-pitch homepage with eight sections, six verified menu selections, and distinct venue copy; complete official menu directory, gallery, private events, visit and reservation routes.
+- November 6 Iron Horse redesign with eight sections, five verified menu selections, and venue-specific copy; complete official menu directory, gallery, private events, visit and reservation routes.
 - Every current branch with separate hours, phone, directions and booking links.
 - Official ordering, social, event and legal destinations preserved.
 - Accessible mobile navigation, keyboard photo gallery, native FAQ disclosures and reduced-motion support.
+- Dish photography responds to menu selection; mobile images open directly beneath the selected dish.
+- Separate R Street and Palladio visit panels with matching reservation destinations.
 - Self-hosted fonts with licenses; responsive WebP photos with unchanged originals and provenance.
 - Research and source audit in `data/`; product and design documentation.
 
@@ -29,7 +31,7 @@ This public repository is a reviewable design concept, not an official business 
 
 ## Editing
 
-Edit the HTML pages directly. Interior-page styles are in `assets/styles.css`, with homepage art direction in `assets/pitch.css`. Navigation and galleries use `assets/app.js`; homepage motion and maps use `assets/pitch.js`. Facts and photograph origins are recorded in `data/venue-facts.json`, `data/revision-facts.json`, and `data/image-sources.json`. No credentials, analytics, or database are included.
+Edit the HTML pages directly. Shared structural styles are in `assets/styles.css`; the current Iron Horse identity and responsive layouts are in `assets/horse.css` across all pages. Navigation and galleries use `assets/app.js`; menu previews, location selection and maps use `assets/horse.js`. The older pitch files are retained as history and are not loaded. Facts and photograph origins are recorded in `data/venue-facts.json`, `data/revision-facts.json`, and `data/image-sources.json`. No credentials, analytics, or database are included.
 
 ## Previews and checks
 

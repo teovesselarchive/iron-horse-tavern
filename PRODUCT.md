@@ -6,19 +6,21 @@
 web
 
 ## Purpose
-An independent restaurant website redesign for guests choosing where to eat, drink, visit or host a gathering. The user requested a separate public GitHub repository for this concept.
+An independent restaurant website concept that helps guests choose a meal, make a reservation, order, visit either branch or plan an event. The active redesign scope is Iron Horse Tavern only, across all 11 HTML pages. A separate public GitHub repository is the requested delivery destination.
 
 ## Stack
-Plain HTML, CSS and JavaScript, chosen for portable static hosting and no installation requirement.
+Portable static HTML, CSS and JavaScript. Shared styles and interactions load first; assets/horse.css and assets/horse.js implement the current replacement identity and homepage interactions.
 
 ## Capabilities and constraints
-Preserve accurate current branch information, menu access, reservations, ordering, event inquiry and social routes. Existing official services handle all transactions. Do not fabricate bookings, form submissions, prices, testimonials, ratings or venue history.
+Preserve accurate branch information, menu access, reservations, ordering, event inquiries, parking, maps, accessibility and social routes. Official external services handle transactions; there is no local booking or inquiry form. Do not fabricate bookings, submissions, prices, reviews, ratings or venue history.
+
+The homepage contains an origin-led photographic hero, local story, real-dish sampler, happy hour, room gallery, private events, brunch, branch-specific visit information and a complete family/footer area. The user requested 4–6 real dishes. The current five are Giant Bavarian Pretzel, Tuna Poke Nachos, Cubano, Stuffed French Toast and Honey Truffle Pizza: four photographic choices plus the pizza text feature. All 11 routes retain useful service links.
 
 ## Brand commitments
-Retain the official name and logo. The user’s approved work sets the quality bar: real venue photography, expressive typography, independent client identity, no decorative button arrows or theme switcher, considered responsive compositions.
+Retain the official name and logo, real venue/food photography and accurate Sacramento/Folsom context. The replacement world uses brick red, cream, leather and copper with Alfa Slab One and DM Sans. Apply the user's quality bar with an independent venue identity, clear text-only actions, responsive compositions, keyboard access and reduced-motion support. The earlier condensed-type newspaper/kimchi direction was rejected.
 
 ## Evidence
-`data/venue-facts.json`, `data/source-audit.md`, `data/image-sources.json`, `data/design-research.json`. Maps research is documented; Maps assets are not republished.
+Current direction: data/horse-direction.md. Supporting evidence: data/venue-facts.json, data/revision-facts.json, data/source-audit.md, data/image-sources.json and data/design-research.json. data/pitch-direction.md is historical, not current design authority. Maps research is documented; Maps assets are not republished.
 
-## November 6 pitch revision
-The user requested a bolder, venue-specific agency pitch homepage with eight sections: hero, short story, six real menu picks, real room photography, private events, weekly programming, visit information with parking/map, and family/footer links. Avoid generic hospitality copy, banned phrases, em dashes, fabricated reviews or unverified details. See data/pitch-direction.md and data/revision-facts.json. Upload each complete website to its own supplied GitHub repository after review.
+## Review record
+This is a code-led replacement with no approved image comp. The Impeccable launcher, seed and detector were unavailable; no success or certification from those tools is claimed. Browser checks covered 320, 390, 768, 1024 and 1440px. Current exact captures are under .impeccable/review, including desktop.png, desktop-full.png, mobile.png, mobile-full.png, width-320.png, width-768.png, width-1024.png and menu/private-events/visit route captures at 320 and 1440px. Source documentation is descriptive of the implemented artifact, not a substitute for those browser checks.

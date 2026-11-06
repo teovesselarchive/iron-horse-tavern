@@ -1,0 +1,98 @@
+[
+  {
+    "brokenImages": [],
+    "h1": "The menus.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/menu/",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "brokenImages": [],
+    "h1": "Take over the tavern.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/private-events/",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "brokenImages": [],
+    "h1": "Make yourself at home.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/visit/",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "brokenImages": [],
+    "h1": "Your table awaits.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/reservations/",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "brokenImages": [],
+    "h1": "Good food to go.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/order-online/",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "brokenImages": [],
+    "h1": "Come on in.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/gallery/",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "brokenImages": [],
+    "h1": "The menus.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/menu/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "brokenImages": [],
+    "h1": "Take over the tavern.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/private-events/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "brokenImages": [],
+    "h1": "Make yourself at home.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/visit/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "brokenImages": [],
+    "h1": "Your table awaits.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/reservations/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "brokenImages": [],
+    "h1": "Good food to go.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/order-online/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "brokenImages": [],
+    "h1": "Come on in.",
+    "overflow": false,
+    "route": "/iron-horse-tavern/gallery/",
+    "scrollWidth": 320,
+    "width": 320
+  }
+]
