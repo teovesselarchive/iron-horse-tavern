@@ -17,3 +17,7 @@ The independent reviewer identified four material corrections and scored all fou
 ## Restaurant hero and R Street photo update
 
 Hero copy changed to the restaurant name and a direct description of its food, cocktails and copper-topped bar. Room images on the homepage, gallery, event and reservation pages now use R Street photographs. Captions and gallery enlargement match. The revised hero fits at 320, 390, 768, 1024 and 1440px without horizontal overflow. New photographs load correctly; all 11 routes still pass local link, asset and copy checks. Desktop and mobile previews are refreshed.
+
+## Button styling refinement
+
+Shared buttons now use inset sign frames, copper inverse actions and consistent hover, press and keyboard-focus states. Verified homepage overflow at 320, 390, 768, 1024 and 1440px; mobile hero targets are 54px tall. Confirmed mobile navigation opens and closes with Escape, the hero reservation link reaches its local route, and gallery controls still open and close the viewer. The reservation route has no button-text overflow at 320px. Existing reduced-motion support also covers the new transitions.

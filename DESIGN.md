@@ -45,9 +45,9 @@ typography:
     lineHeight: 1.6
   button:
     fontFamily: "DM Sans, sans-serif"
-    fontSize: "14px"
-    fontWeight: 600
-    lineHeight: 1.2
+    fontSize: "13px"
+    fontWeight: 700
+    lineHeight: 1.25
 rounded:
   square: "0"
   toggle: "2px"
@@ -64,19 +64,19 @@ components:
     textColor: "{colors.on-accent}"
     typography: "{typography.button}"
     rounded: "{rounded.square}"
-    padding: "16px 27px"
+    padding: "18px 29px"
   button-secondary:
     backgroundColor: "transparent"
     textColor: "{colors.ink}"
     typography: "{typography.button}"
     rounded: "{rounded.square}"
-    padding: "16px 27px"
+    padding: "18px 29px"
   button-inverse:
-    backgroundColor: "{colors.paper}"
-    textColor: "{colors.brick}"
+    backgroundColor: "{colors.copper}"
+    textColor: "#351b15"
     typography: "{typography.button}"
     rounded: "{rounded.square}"
-    padding: "16px 27px"
+    padding: "18px 29px"
   navigation:
     backgroundColor: "{colors.brick}"
     textColor: "{colors.on-accent}"
@@ -143,11 +143,11 @@ Photographic overlays protect hero legibility. Solid surfaces, imagery and fine 
 
 ## Shapes
 
-Buttons, photographs and main panels have square corners. The inherited navigation toggle alone retains a subtle 2px radius. The story wordmark has a slight painted-sign rotation; this is not a license to add tilted promotional labels.
+Buttons, photographs and main panels have square corners. The navigation toggle also uses square corners. The story wordmark has a slight painted-sign rotation; this is not a license to add tilted promotional labels.
 
 ## Components
 
-- **Actions:** primary red, transparent secondary and cream inverse variants use text-only labels, 1px borders and a 52px base minimum height. Hover changes color without translation. Header actions are 46px minimum; mobile hero actions are 50px. Focus remains a visible 3px outline with 6px offset and a surface-appropriate color.
+- **Actions:** primary red, outlined secondary and copper inverse variants use uppercase text-only labels with a fine inset frame, echoing the tavern sign. Base and mobile hero buttons are at least 54px tall; the header action is at least 50px. Hover changes fill and border color; press moves the control down 1px. Keyboard focus uses a contrasting 3px ring with a 5px offset. The mobile menu and gallery controls share the framed treatment. Reduced-motion disables transitions and animations.
 - **Navigation:** brick surface, cream labels, underline hover/current state. The disclosure closes on Escape, link selection, outside click or desktop resize; Escape restores toggle focus.
 - **Dish selector:** four buttons update a shared image on click, keyboard focus or mouse hover. The selected title turns warm red; its “View dish” cue gains weight. Descriptions remain readable without JavaScript. Honey Truffle Pizza is a fifth, text-only menu feature.
 - **Location selector and map:** two pressed-state buttons switch branch-specific details, with a red underline indicating selection. Maps load only on activation and receive focus. Both branches remain in the document without JavaScript.
