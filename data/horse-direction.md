@@ -8,7 +8,7 @@ Mode: Persuade. A visitor should recognize Iron Horse as a substantial Sacrament
 
 World: the physical tavern sign and the room behind it. Brick red from the R Street walls, warm cream lettering, blackened steel and leather, restrained copper. Heavy Alfa Slab One lettering draws from the muscular slab forms of the existing wordmark and railway-era signage; DM Sans handles practical information. The actual official logo is preserved.
 
-First viewport: the real R Street room fills the frame. “R Street raised us.” makes a specific origin statement. The original location and Palladio are named; Reserve, Order and Events are visible actions. No fabricated station history, random ingredient slogan, highlighted word, stock photograph or agency motif.
+First viewport: the real R Street room fills the frame. “Iron Horse Tavern.” leads with the restaurant itself. The supporting line describes modern American comfort food, craft cocktails and the copper-topped bar at 15th & R. The original location and Palladio are named; Reserve, Order and Events are visible actions. No fabricated station history, random ingredient slogan, highlighted word, stock photograph or agency motif.
 
 Visitor path: room and identity, short local story, interactive real-dish sampler, happy hour and cocktail photograph, asymmetric room gallery, strong private-event invitation, weekend brunch, branch-specific visit details, and complete useful footer.
 
@@ -31,3 +31,7 @@ Build path: code-led. No approved image comp. The Impeccable launcher was unavai
 - Official Iron Horse site and existing primary-source menus, MAC venue pages, actual Google Maps gallery observations from this project, and all used official photos. Primary architectural context: https://www.vg-architects.com/15th-r . This was adaptive reuse of an office building, so no historic-station claim is made.
 
 Award archive images are research references only and are not bundled as website assets. The archive captures were downloaded and inspected without controlling an external browser. All browser checks for this redesign were local previews.
+
+## R Street photo and hero refinement
+
+The user rejected origin slogans and requested restaurant-specific hero information. All active interior photos now show R Street. The replacement bar, fireplace and dining images are from MAC’s dedicated R Street gallery, with their original URLs recorded in data/image-sources.json. Other-location or unverified room photos remain archived only and are not referenced by any page. Official shared menu photography remains; its camera location is not asserted.

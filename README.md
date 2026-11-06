@@ -20,6 +20,7 @@ Open http://localhost:8000 . All local paths are relative, including for GitHub 
 - Accessible mobile navigation, keyboard photo gallery, native FAQ disclosures and reduced-motion support.
 - Dish photography responds to menu selection; mobile images open directly beneath the selected dish.
 - Separate R Street and Palladio visit panels with matching reservation destinations.
+- R Street venue-space photography, including the copper bar, fireplace and dining room.
 - Self-hosted fonts with licenses; responsive WebP photos with unchanged originals and provenance.
 - Research and source audit in `data/`; product and design documentation.
 

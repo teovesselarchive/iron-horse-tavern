@@ -25,7 +25,7 @@ Folsom: Exterior photo: two-story rust-red stucco facade with tall dark-framed w
 - Original Folsom tel link drops the area code; correct full number is 916-618-4322.
 - Footer visible event address is events@machospitalitygroup.com but original mailto incorrectly points to info@ironhorsetavern.net. Use the visible events address.
 - October 16–November 26 seasonal specials may be omitted from an evergreen design.
-- Branch identity of iht1.jpg bar image not proven; avoid explicitly labeling a branch. ihtf.jpg is a covered patio, not a full exterior.
+- Archived only: iht1.jpg and ihtf.jpg have been removed from every page. Active room replacements are verified in MAC’s dedicated R Street gallery; see image-sources.json.
 - Official photos are downloadable reference source material; no ownership transfer or broader reuse license implied.
 
 ## Source coverage

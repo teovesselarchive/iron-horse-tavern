@@ -42,7 +42,8 @@
       "assets/iht1-600.webp",
       "assets/iht1-1100.webp",
       "assets/iht1-1800.webp"
-    ]
+    ],
+    "usage_status": "Archived original only; removed from every website page at user request. Branch not established as R Street."
   },
   {
     "original": "assets/originals/ihtf.jpg",
@@ -57,7 +58,8 @@
       "assets/ihtf-600.webp",
       "assets/ihtf-1100.webp",
       "assets/ihtf-1800.webp"
-    ]
+    ],
+    "usage_status": "Archived original only; removed from every website page at user request. Branch not established as R Street."
   },
   {
     "original": "assets/originals/ihtr1.jpg",
@@ -129,6 +131,57 @@
       "assets/cocktail-600.webp",
       "assets/cocktail-1100.webp",
       "assets/cocktail-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/r-street-bar.jpg",
+    "source_url": "https://www.machospitalitygroup.com/wp-content/uploads/2024/07/IRONHORSE-15.jpg",
+    "source_page": "https://www.machospitalitygroup.com/iron-horse-tavern-r-street/",
+    "branch": "R Street, Sacramento",
+    "verification": "Published in MAC’s dedicated Iron Horse Tavern R Street venue gallery; visually inspected.",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "provenance": "Official venue photography; original preserved. Resized WebP derivatives only.",
+    "derivatives": [
+      "assets/r-street-bar-600.webp",
+      "assets/r-street-bar-1100.webp",
+      "assets/r-street-bar-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/r-street-fireplace.jpg",
+    "source_url": "https://www.machospitalitygroup.com/wp-content/uploads/2024/07/IRONHORSE-02.jpg",
+    "source_page": "https://www.machospitalitygroup.com/iron-horse-tavern-r-street/",
+    "branch": "R Street, Sacramento",
+    "verification": "Published in MAC’s dedicated Iron Horse Tavern R Street venue gallery; visually inspected.",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "provenance": "Official venue photography; original preserved. Resized WebP derivatives only.",
+    "derivatives": [
+      "assets/r-street-fireplace-600.webp",
+      "assets/r-street-fireplace-1100.webp",
+      "assets/r-street-fireplace-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/r-street-dining.jpg",
+    "source_url": "https://www.machospitalitygroup.com/wp-content/uploads/2024/07/IRONHORSE-07.jpg",
+    "source_page": "https://www.machospitalitygroup.com/iron-horse-tavern-r-street/",
+    "branch": "R Street, Sacramento",
+    "verification": "Published in MAC’s dedicated Iron Horse Tavern R Street venue gallery; visually inspected.",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "provenance": "Official venue photography; original preserved. Resized WebP derivatives only.",
+    "derivatives": [
+      "assets/r-street-dining-600.webp",
+      "assets/r-street-dining-1100.webp",
+      "assets/r-street-dining-1800.webp"
     ]
   }
 ]

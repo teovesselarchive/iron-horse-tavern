@@ -13,3 +13,7 @@ November 6, 2026. This record supersedes the earlier pitch checks for the replac
 - Local preview screenshots are provided in `preview/`; detailed check evidence is in `data/horse-*-checks.json`.
 
 The independent reviewer identified four material corrections and scored all four resolved in the final ship verdict. That verdict covers the scored corrections; it is not a new whole-surface audit. See data/horse-review.json and data/horse-verdict.json. The Impeccable launcher and automated detector were unavailable, so no automated design certification is claimed. External bookings, purchases and event submissions were not performed.
+
+## Restaurant hero and R Street photo update
+
+Hero copy changed to the restaurant name and a direct description of its food, cocktails and copper-topped bar. Room images on the homepage, gallery, event and reservation pages now use R Street photographs. Captions and gallery enlargement match. The revised hero fits at 320, 390, 768, 1024 and 1440px without horizontal overflow. New photographs load correctly; all 11 routes still pass local link, asset and copy checks. Desktop and mobile previews are refreshed.
