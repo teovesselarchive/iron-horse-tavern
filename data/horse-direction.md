@@ -35,3 +35,7 @@ Award archive images are research references only and are not bundled as website
 ## R Street photo and hero refinement
 
 The user rejected origin slogans and requested restaurant-specific hero information. All active interior photos now show R Street. The replacement bar, fireplace and dining images are from MAC’s dedicated R Street gallery, with their original URLs recorded in data/image-sources.json. Other-location or unverified room photos remain archived only and are not referenced by any page. Official shared menu photography remains; its camera location is not asserted.
+
+## Masthead refinement
+
+A cream navigation band now anchors an overhanging brick sign containing the unchanged official logo. Slab lettering carries from the venue identity into navigation and angled action plates. Mobile navigation opens into a large brick menu. This supersedes the earlier centered logo header and rectangular inset button frames. The restaurant-led hero and R Street photography remain.

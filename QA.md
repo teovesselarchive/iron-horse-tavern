@@ -21,3 +21,7 @@ Hero copy changed to the restaurant name and a direct description of its food, c
 ## Button styling refinement
 
 Shared buttons now use inset sign frames, copper inverse actions and consistent hover, press and keyboard-focus states. Verified homepage overflow at 320, 390, 768, 1024 and 1440px; mobile hero targets are 54px tall. Confirmed mobile navigation opens and closes with Escape, the hero reservation link reaches its local route, and gallery controls still open and close the viewer. The reservation route has no button-text overflow at 320px. Existing reduced-motion support also covers the new transitions.
+
+## Distinctive masthead and action plates
+
+Replaced the centered header with a cream masthead, overhanging logo sign, slab-lettered navigation and angled action plates across all 11 routes. Checked 320, 390, 768, 1024 and 1440px: no horizontal overflow or clipped header-link text. Location links remain inside the desktop header. Mobile keyboard Tab enters the opened menu, Escape closes it and restores focus, and reservation navigation closes the disclosure. The Palladio shortcut reaches the Folsom section on the Visit page. Refreshed desktop, mobile, full-page and open-menu previews.

@@ -44,9 +44,9 @@ typography:
     fontWeight: 400
     lineHeight: 1.6
   button:
-    fontFamily: "DM Sans, sans-serif"
-    fontSize: "13px"
-    fontWeight: 700
+    fontFamily: "Alfa Slab One, Georgia, serif"
+    fontSize: "17px"
+    fontWeight: 400
     lineHeight: 1.25
 rounded:
   square: "0"
@@ -78,8 +78,8 @@ components:
     rounded: "{rounded.square}"
     padding: "18px 29px"
   navigation:
-    backgroundColor: "{colors.brick}"
-    textColor: "{colors.on-accent}"
+    backgroundColor: "{colors.paper}"
+    textColor: "{colors.brick}"
   dish-choice:
     backgroundColor: "transparent"
     textColor: "{colors.ink}"
@@ -113,7 +113,7 @@ This is the implemented replacement across all 11 pages. The source of truth is 
 
 ### Primary
 
-Brick is the header, happy-hour, event and footer surface. Accent is the deeper red action and selected-location color. Paper and on-accent supply readable reversals.
+Brick is the hanging logo sign, mobile menu, happy-hour, event and footer surface; the masthead is cream. Accent is the deeper red action and selected-location color. Paper and on-accent supply readable reversals.
 
 ### Secondary
 
@@ -131,7 +131,7 @@ Alfa Slab One is locally hosted at weight 400; DM Sans is locally hosted at weig
 
 ## Layout
 
-The shell is uncapped. Desktop gutters are fluid; key content sections gain a 1560px-centered inset above 1700px. The desktop header centers the logo between navigation groups; heights step from 108px to 92px at 1100px, 90px at 900px and 82px at 650px. Navigation becomes a disclosure at 900px.
+The shell is uncapped. Desktop gutters are fluid; key content sections gain a 1560px-centered inset above 1700px. The cream desktop masthead has an overhanging brick logo sign, slab-serif navigation, location shortcuts and a two-line reservation plate. Header heights step from 132px to 122px at 1100px, 100px at 900px and 92px at 650px. At 900px, navigation becomes an expansive brick disclosure with large links. The trigger precedes the links in source order so Tab enters the opened menu.
 
 The homepage uses a full photographic opening, asymmetric story/menu/gallery spreads, alternating material-colored sections and a two-column visit panel. At 650px these become deliberate single-column compositions with 22px gutters; selected narrow-layout details use 18px below 360px. The dish photograph moves directly below its selected item on mobile. Wide-screen hero type is capped; mobile uses its own scale and crop. Browser review covered 320, 390, 768, 1024 and 1440px; current captures are in .impeccable/review.
 
@@ -143,12 +143,12 @@ Photographic overlays protect hero legibility. Solid surfaces, imagery and fine 
 
 ## Shapes
 
-Buttons, photographs and main panels have square corners. The navigation toggle also uses square corners. The story wordmark has a slight painted-sign rotation; this is not a license to add tilted promotional labels.
+Buttons use shallow angled corners inspired by the hanging logo sign. The sign projects below the header; photography and section panels keep square corners. The mobile menu trigger uses parallel rules. The story wordmark has a slight painted-sign rotation; this is not a license to add tilted promotional labels.
 
 ## Components
 
-- **Actions:** primary red, outlined secondary and copper inverse variants use uppercase text-only labels with a fine inset frame, echoing the tavern sign. Base and mobile hero buttons are at least 54px tall; the header action is at least 50px. Hover changes fill and border color; press moves the control down 1px. Keyboard focus uses a contrasting 3px ring with a 5px offset. The mobile menu and gallery controls share the framed treatment. Reduced-motion disables transitions and animations.
-- **Navigation:** brick surface, cream labels, underline hover/current state. The disclosure closes on Escape, link selection, outside click or desktop resize; Escape restores toggle focus.
+- **Actions:** primary brick, cream secondary and copper inverse variants use Alfa Slab One in natural case. Beveled pseudo-element surfaces keep the clickable area and contrasting keyboard-focus ring intact. Main controls are at least 56px tall; the desktop reservation plate is 86px. Hover changes material color, press moves 1px and reduced-motion disables transitions. The earlier inset rectangular treatment is superseded.
+- **Navigation:** cream masthead, brick lettering and a projecting official-logo panel. Location shortcuts link directly to the corresponding Visit section. Current page links receive an underline and aria-current. The mobile brick menu closes on Escape, destination selection, outside click or desktop resize; Escape restores trigger focus.
 - **Dish selector:** four buttons update a shared image on click, keyboard focus or mouse hover. The selected title turns warm red; its “View dish” cue gains weight. Descriptions remain readable without JavaScript. Honey Truffle Pizza is a fifth, text-only menu feature.
 - **Location selector and map:** two pressed-state buttons switch branch-specific details, with a red underline indicating selection. Maps load only on activation and receive focus. Both branches remain in the document without JavaScript.
 - **Gallery:** square photographic controls open a native dialog with Previous, Next and Close; arrow keys, Escape and opener-focus restoration are retained. Home room images do not scale on hover; the separate gallery route retains its small inherited image zoom.
